@@ -1,0 +1,9 @@
+[directories]
+astetcdir => /var/snap/asterisk/common/etc/asterisk
+astspooldir => /var/snap/asterisk/common/var/spool/asterisk
+astvarlibdir => /var/snap/asterisk/common/var/lib/asterisk
+astdatadir => /var/snap/asterisk/common/var/lib/asterisk
+astlogdir => /var/snap/asterisk/common/var/log/asterisk
+astagidir => /var/snap/asterisk/common/var/lib/asterisk/agi-bin
+astrundir => /var/snap/asterisk/common/var/run
+astmoddir => /var/snap/asterisk/common/usr/lib/asterisk/modules

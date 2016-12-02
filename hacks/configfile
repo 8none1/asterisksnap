@@ -1,0 +1,9 @@
+[directories]
+astetcdir => /home/will/snap/asterisk/etc/asterisk
+astspooldir => /home/will/snap/asterisk/var/spool/asterisk
+astvarlibdir => /home/will/snap/asterisk/var/lib/asterisk
+astdatadir => /home/will/snap/asterisk/var/lib/asterisk
+astlogdir => /home/will/snap/asterisk/var/log/asterisk
+astagidir => /home/will/snap/asterisk/var/lib/asterisk/agi-bin
+astrundir => /home/will/snap/asterisk/var/run
+astmoddir => /home/will/snap/asterisk/usr/lib/asterisk/modules
